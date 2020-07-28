@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595931138045,
+  "timestamp": 1595931551337,
   "index": "/open-canvass/index.html",
   "assetGroups": [
     {
@@ -74,7 +74,7 @@
     "/open-canvass/favicon.ico": "39bc9f855f34b093ed12807fdd5051fc8d3da954",
     "/open-canvass/index.html": "3a94e469f5aed14b66a19ca2e5b4862b21553baf",
     "/open-canvass/main.57f20c17f5561dd214a8.js": "4ba41351da6c3caffc992980a21032d1d582fec1",
-    "/open-canvass/manifest.webmanifest": "e229d3dfc7d8c624e28858c6c20edb3529f68135",
+    "/open-canvass/manifest.webmanifest": "a0b83ccfd59626548eb72289616f95c520edaff5",
     "/open-canvass/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/open-canvass/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/open-canvass/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
